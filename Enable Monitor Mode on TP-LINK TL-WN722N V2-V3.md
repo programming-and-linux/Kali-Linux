@@ -68,7 +68,7 @@ sudo iwconfig
 ```
 #### Here's the output you should be seeing.
 **Note that the adapter is set to `Mode: Monitor`**
-![App Screenshot](https://nooblinux.com/wp-content/uploads/2022/07/monitor-mode.png?text=App+Screenshot+Here)
+![App Screenshot](./screenshots/s1.png)
 ## ****Support****
 ***For support, you can [buy me a cofee ☕](https://www.buymeacoffee.com/programandlinux)***
 ## ****🔗 Links****
