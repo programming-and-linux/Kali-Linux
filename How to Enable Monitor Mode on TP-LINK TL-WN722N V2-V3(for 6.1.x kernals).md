@@ -7,7 +7,7 @@
 
 *****After the recent major upgrade of kali linux, most are finding it difficult to enable monitor mode on TP-LINK TL-WN722N V2/V3 again resulting with the following error while setting it up for monitor mode using the previous method*****
 
-![App Screenshot](https://user-images.githubusercontent.com/107602866/222213679-2de62b32-7fbd-4afc-a98f-c7dc8d1b617e.png)
+![App Screenshot](./screenshots/s2.png)
 
 *****But now we have a solution for it*****
 ## Let's setup the adapter
@@ -73,7 +73,7 @@ sudo iwconfig
 ```
 #### Here's the output you should be seeing.
 **Note that the adapter is set to `Mode: Monitor`**
-![App Screenshot](https://nooblinux.com/wp-content/uploads/2022/07/monitor-mode.png)
+![App Screenshot](./screenshots/s1.png)
 ## ****Support****
 ***For support, you can [buy me a cofee ☕](https://www.buymeacoffee.com/programandlinux)***
 ## ****🔗 Links****
