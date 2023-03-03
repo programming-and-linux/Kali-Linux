@@ -45,7 +45,7 @@ exit
 ```bash
 reboot
 ```
-#### After reboot run the folllowing commands(we have to chnge the current directory to the `rtl8188eus` that we cloned earlier)
+#### After reboot run the folllowing commands(we have to change the current directory to the `rtl8188eus` that we cloned earlier)
 #### Run the following commands in this order
 ```bash
 cd rtl8188eus
